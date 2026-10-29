@@ -1,0 +1,1 @@
+The length of the set will be 4. A set in Python is a collection of unique elements. Even though duplicate values (2, 3) are provided when defining the set, Python automatically discards the duplicates, leaving only {1, 2, 3, 4}.
